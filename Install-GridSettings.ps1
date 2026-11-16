@@ -38,7 +38,7 @@ try:
                     border-collapse: collapse !important;
                 }}
             </style>
-            {{html}}
+            {html}
         </div>
         """
 
